@@ -59,6 +59,14 @@ education:
       - Introduction to Algorithm
       - Machine Learning
 
+  - area: High School
+    institution: Beijing National Day School
+    date_start: 2022-07-01
+    date_end: 2019-09-01
+    summary: |
+      Grade: 674/750
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
