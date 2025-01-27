@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/projects/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/projects/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/experience/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/study-abroad/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/study-abroad/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/study-abroad/example/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/study-abroad/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/project/guandan-gaming/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/project/guandan-gaming/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/project/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://1eastonj.github.io/eastonj.github.io/tags/</loc>
+    <loc>http://localhost:1313/eastonj.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

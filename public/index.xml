@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Easton Academic CV Theme</title>
-    <link>https://1eastonj.github.io/eastonj.github.io/</link>
-      <atom:link href="https://1eastonj.github.io/eastonj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/eastonj.github.io/</link>
+      <atom:link href="http://localhost:1313/eastonj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Easton Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://1eastonj.github.io/eastonj.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/eastonj.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Easton Academic CV Theme</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/</link>
+      <link>http://localhost:1313/eastonj.github.io/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/projects/</link>
+      <link>http://localhost:1313/eastonj.github.io/projects/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/projects/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/experience/</link>
+      <link>http://localhost:1313/eastonj.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/experience/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://1eastonj.github.io/eastonj.github.io/study-abroad/example/</link>
+      <link>http://localhost:1313/eastonj.github.io/study-abroad/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/study-abroad/example/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/study-abroad/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Drones Tracking (ongoing, and highly likely that a paper will be published)</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</link>
+      <link>http://localhost:1313/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/project/multi-uav-tracking-by-3d-ukf/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Sept. 2024 - Present&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Advisor:&lt;/strong&gt; Prof. Yanyong Zhang (Computer Science, USTC)&lt;/p&gt;
 &lt;ul&gt;
@@ -52,22 +52,22 @@
 &lt;h4 id=&#34;ct-kf-tracking-simulation&#34;&gt;CT-KF Tracking Simulation&lt;/h4&gt;
 &lt;p&gt;Below is the simulation video showcasing CT-KF tracking:&lt;/p&gt;
 &lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
-  &lt;source src=&#34;https://1eastonj.github.io/eastonj.github.io/uploads/CTdemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/eastonj.github.io/uploads/CTdemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
 &lt;h4 id=&#34;ca-kf-tracking-simulation&#34;&gt;CA-KF Tracking Simulation&lt;/h4&gt;
 &lt;p&gt;Below is the simulation video showcasing CA-KF tracking:&lt;/p&gt;
 &lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
-  &lt;source src=&#34;https://1eastonj.github.io/eastonj.github.io/uploads/CAdemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/eastonj.github.io/uploads/CAdemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;</description>
     </item>
     
     <item>
       <title>Nash Equilibrium Guandan</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/project/guandan-gaming/</link>
+      <link>http://localhost:1313/eastonj.github.io/project/guandan-gaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/project/guandan-gaming/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/project/guandan-gaming/</guid>
       <description>&lt;p&gt;&lt;strong&gt;May 2024 - Sept. 2024&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Advisor:&lt;/strong&gt; Prof. Kani Chen (Financial Mathematics, HKUST)&lt;/p&gt;
 &lt;ul&gt;
@@ -86,16 +86,16 @@
 &lt;h3 id=&#34;video-demo&#34;&gt;Video Demo&lt;/h3&gt;
 &lt;p&gt;Below is our Demo &amp;ndash; Playing Guandan on terminal:&lt;/p&gt;
 &lt;video width=&#34;640&#34; height=&#34;380&#34; controls&gt;
-  &lt;source src=&#34;https://1eastonj.github.io/eastonj.github.io/uploads/guandan.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/eastonj.github.io/uploads/guandan.mp4&#34; type=&#34;video/mp4&#34;&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;</description>
     </item>
     
     <item>
       <title>Sleep Safety and Health Monitoring (ongoing, and highly likely that a paper will be published)</title>
-      <link>https://1eastonj.github.io/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</link>
+      <link>http://localhost:1313/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://1eastonj.github.io/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</guid>
+      <guid>http://localhost:1313/eastonj.github.io/project/bedside-safety-and-sleep-monitoring/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Jun. 2024 - Present&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Advisor:&lt;/strong&gt; Prof. Rong Zheng (Computing and Software, McMaster University)&lt;/p&gt;
 &lt;ul&gt;
@@ -105,7 +105,7 @@ for sleep quality monitoring. This involves using radar to measure key data from
 From online datasets, I found one dataset containing HR, RR, and sleep stage (denoted as D1) and another with HR, ACC, and sleep stage (denoted as D2). Initially, I attempted using Random Forest ensemble learning, training separate decision trees on each dataset and combining their results. However, the final accuracy barely approached but still fell short of 70%, showing poor performance.&lt;br&gt;
 Later, I referred to the article titled &lt;em&gt;&lt;a href=&#34;#&#34;&gt;Development and validation of an algorithm for the study of sleep using a biometric shirt in young healthy adults&lt;/a&gt;&lt;/em&gt; and adapted its rule-based decision tree approach. After modifications, the final prediction accuracy improved to 75%.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://1eastonj.github.io/eastonj.github.io/uploads/Bedside_Safety_and_Sleep_Monitoring_presentation.pptx.zip&#34;&gt;More details in this PPT&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/eastonj.github.io/uploads/Bedside_Safety_and_Sleep_Monitoring_presentation.pptx.zip&#34;&gt;More details in this PPT&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
