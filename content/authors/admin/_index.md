@@ -64,7 +64,7 @@ education:
     date_start: 2022-07-01
     date_end: 2019-09-01
     summary: |
-      Grade: 674/750
+      Gaokao scores: 674/750
 
 
 
@@ -106,7 +106,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 85
 
 
 # Awards.
