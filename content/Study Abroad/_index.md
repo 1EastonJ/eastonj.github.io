@@ -11,13 +11,13 @@
 ---
 
 ### 🏙️ Toronto
-![Toronto Architecture](/uploads/To4.jpg)  
+![Toronto Architecture](https://1eastonj.github.io/eastonj.github.io/uploads/To4.jpg)  
 *Modern downtown architecture showcasing innovation.*
 
 ---
 
 ### 🏞️ Vancouver
-![Vancouver Kayaking](/uploads/Vancouver1.jpg)  
+![Vancouver Kayaking](https://1eastonj.github.io/eastonj.github.io/uploads/Vancouver1.jpg)  
 *Enjoy kayaking with corsair*
 
 ---
