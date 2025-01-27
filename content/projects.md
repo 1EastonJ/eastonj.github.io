@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2025-01-26
 type: landing
 
 design:
@@ -12,12 +12,16 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Below are the research projects I have contributed to. Click on each to learn more.
       filters:
         folders:
           - project
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      view: article-list
+      fill_image: true
+      columns: 1
+      card_style:
+        layout: horizontal  # Cards are displayed in a rectangular layout
+        spacing: '2rem'  # Adds spacing between cards
+        image_position: left  # Images are on the left
 ---
