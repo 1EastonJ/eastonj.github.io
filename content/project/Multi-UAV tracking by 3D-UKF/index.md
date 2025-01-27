@@ -15,16 +15,17 @@ title: Multi-Drones Tracking (ongoing, and highly likely that a paper will be pu
 #### CT-KF Tracking Simulation
 Below is the simulation video showcasing CT-KF tracking:  
 
-<video width="640" height="360" controls>
-  <source src="/uploads/CTdemo.mp4" type="video/mp4">
+<video width="640" height="380" controls>
+  <source src="https://1eastonj.github.io/eastonj.github.io/uploads/CTdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### CA-KF Tracking Simulation
 Below is the simulation video showcasing CA-KF tracking:  
 
-<video width="640" height="360" controls>
-  <source src="/uploads/CAdemo.mp4" type="video/mp4">
+
+<video width="640" height="380" controls>
+  <source src="https://1eastonj.github.io/eastonj.github.io/uploads/CAdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
