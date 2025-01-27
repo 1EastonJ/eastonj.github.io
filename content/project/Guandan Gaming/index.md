@@ -21,7 +21,7 @@ title: Nash Equilibrium Guandan
 Below is our Demo -- Playing Guandan on terminal:
 
 <video width="640" height="380" controls>
-  <source src="/uploads/guandan.mp4" type="video/mp4">
+  <source src="https://1eastonj.github.io/eastonj.github.io/uploads/guandan.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
