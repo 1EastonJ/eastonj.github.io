@@ -12,4 +12,4 @@ for sleep quality monitoring. This involves using radar to measure key data from
   From online datasets, I found one dataset containing HR, RR, and sleep stage (denoted as D1) and another with HR, ACC, and sleep stage (denoted as D2). Initially, I attempted using Random Forest ensemble learning, training separate decision trees on each dataset and combining their results. However, the final accuracy barely approached but still fell short of 70%, showing poor performance.  
   Later, I referred to the article titled *[Development and validation of an algorithm for the study of sleep using a biometric shirt in young healthy adults](#)* and adapted its rule-based decision tree approach. After modifications, the final prediction accuracy improved to 75%.
 
-[More details in this PPT](/uploads/Bedside_Safety_and_Sleep_Monitoring_presentation.pptx.zip)
+[More details in this PPT](https://1eastonj.github.io/eastonj.github.io/uploads/Bedside_Safety_and_Sleep_Monitoring_presentation.pptx.zip)
