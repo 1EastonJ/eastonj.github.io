@@ -4,10 +4,13 @@ env:
   WC_HUGO_VERSION: '0.136.5'
 
 on:
+  # Trigger the workflow every time you push to the main branch
   push:
     branches: ["main"]
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
+# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -26,6 +29,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
+          # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -50,7 +54,7 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3 # Updated to v1
+      uses: actions/upload-pages-artifact@v2
       with:
         path: ./public
 
@@ -65,4 +69,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v2  
