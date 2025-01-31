@@ -126,4 +126,4 @@ awards:
 
 Yidong Jiang(Easton Jiang) is a junior undergraduate student from School of Data Science, University of Science and Technology of China. My research interest includes Robotics and Control, Mobile Computing, Reinforcement Learning and NLP.
 
-I am very fortunate to be advised by Prof. Yanyong Zhang from School of Data Science, University of Science and Technology of China. I was advised by Prof. Rong Zheng from Department of Electrical and Computer Engineering, McMaster University. I was advised by Prof. Kani Chen from Financial Mathematics, Hong Kong University of Science and Technology. 
+I am very fortunate to be advised by Prof. Yanyong Zhang from School of Data Science, University of Science and Technology of China. I was advised by Prof. Rong Zheng from Department of Electrical and Computer Engineering, McMaster University. I was advised by Prof. Kani Chen from Financial Mathematics, Hong Kong University of Science and Technology. 1
